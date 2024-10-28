@@ -1,0 +1,23 @@
+Patient Name: Nguyễn Văn A
+Date of Birth: 12/03/1990
+Date of Visit: 28/10/2024
+Reason for Visit: Joint pain and reduced mobility
+
+History of Present Illness:
+The patient is a 34-year-old male with a known diagnosis of Fibrodysplasia Ossificans Progressiva (FOP). He reports worsening pain in the left shoulder and hip, accompanied by increased stiffness over the past month. He has experienced gradual loss of range of motion in the affected areas, making daily activities more difficult. There have been no new traumatic events, but he describes "flare-ups" consistent with soft tissue swelling around the joints.
+
+Past Medical History:
+
+Diagnosed with FOP at age 6
+Multiple flare-ups affecting shoulders, neck, and hips
+Physical Examination:
+
+Limited range of motion in left shoulder and hip
+Palpable bony masses along the upper back and thigh
+Painful soft tissue swelling over the affected joints
+Assessment/Plan:
+
+Continue physical therapy for mobility preservation
+Recommend a trial of nonsteroidal anti-inflammatory drugs (NSAIDs) for pain relief
+Advise avoiding any intramuscular injections or trauma that may trigger flare-ups
+Follow-up in 3 months or earlier if symptoms worsen
