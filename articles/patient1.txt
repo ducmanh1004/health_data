@@ -68,7 +68,9 @@ Payment Plan: Patient has an active payment plan with the hospital for previous 
 Objective:
 Vital Signs:
 
-Blood Pressure: 125/80 mmHg
+Initial Blood Pressure (on admission): 125/80 mmHg
+Repeat Blood Pressure (2 hours later): 122/78 mmHg
+Trend: Stable without significant fluctuations, within normal limits for age and condition.
 Heart Rate: 76 bpm
 Respiratory Rate: 18 breaths/min
 Temperature: 37.2°C
