@@ -1,0 +1,82 @@
+Patient Information:
+Name: Zhang Wei
+Date of Birth: August 15, 1990
+Gender: Male
+Medical Record Number: 98765432
+Admission Date: November 17, 2024
+Chief Complaint: Shortness of breath and persistent cough
+
+Document Information:
+
+Patient: Zhang Wei (required subject)
+Author: Dr. Li Ming (required)
+Attester: Dr. Li Ming (optional)
+Custodian: Medical Records Department (optional)
+Required Sections:
+Allergies and Intolerances:
+Allergies: Penicillin (causes rash and swelling).
+Medication Summary:
+Current Medications:
+
+Salbutamol inhaler as needed for asthma symptoms.
+Montelukast 10 mg daily for asthma management.
+Loratadine 10 mg daily for seasonal allergies.
+Problems:
+Primary Diagnosis: Exacerbation of chronic asthma.
+Secondary Problems:
+Seasonal allergic rhinitis.
+Mild obesity (BMI: 28).
+History of Present Illness (HPI):
+Zhang Wei, a 34-year-old male, presented with a 2-week history of worsening shortness of breath and nighttime coughing.
+
+Symptoms are aggravated by physical activity and exposure to cold air.
+Denies fever or significant sputum production.
+History of asthma since childhood; has had multiple exacerbations this year.
+Recommended Sections:
+History of Procedures:
+Tonsillectomy (December 1998).
+Immunizations:
+Current Immunizations:
+
+Up to date, including influenza vaccine (October 2024).
+COVID-19 booster (July 2024).
+Medical Devices:
+Uses a peak flow meter to monitor asthma control.
+Results:
+Pending Results:
+
+Chest X-ray to rule out pneumonia.
+Spirometry to assess lung function.
+Finance Information:
+Insurance Provider: Ping An Health Insurance
+Policy Number: PA987654321
+Plan Type: Basic Plan
+Deductible: ¥2,000 (remaining: ¥1,200)
+Co-pay for visit: ¥50
+Objective:
+Vital Signs:
+
+Blood Pressure: 130/85 mmHg
+Heart Rate: 92 bpm
+Respiratory Rate: 22 breaths/min
+Temperature: 36.8°C
+Oxygen Saturation: 94% on room air
+Physical Exam:
+
+General: Mild respiratory distress.
+Lungs: Bilateral wheezing, no crackles.
+Cardiovascular: Normal heart sounds, no murmurs.
+Assessment and Plan:
+Diagnosis:
+
+Exacerbation of chronic asthma.
+Plan:
+
+Administer nebulized bronchodilators.
+Prescribe oral corticosteroids for 5 days.
+Educate on asthma action plan.
+Schedule follow-up in 1 week.
+Encounter Information:
+Encounter Date: November 17, 2024
+Location: Beijing General Hospital, Pulmonology Clinic
+Practitioner: Dr. Li Ming

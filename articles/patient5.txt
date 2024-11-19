@@ -1,0 +1,79 @@
+Patient Information:
+Name: Li Mei
+Date of Birth: May 5, 1975
+Gender: Female
+Medical Record Number: 11223344
+Admission Date: November 15, 2024
+Chief Complaint: Dizziness and palpitations
+
+Document Information:
+
+Patient: Li Mei (required subject)
+Author: Dr. Wang Hui (required)
+Attester: Dr. Wang Hui (optional)
+Custodian: Medical Records Department (optional)
+Required Sections:
+Allergies and Intolerances:
+Allergies: None reported.
+Medication Summary:
+Current Medications:
+
+Metformin 500 mg twice daily for diabetes.
+Amlodipine 5 mg daily for hypertension.
+Problems:
+Primary Diagnosis: New-onset atrial fibrillation.
+Secondary Problems:
+Type 2 diabetes mellitus.
+Hypertension.
+History of Present Illness (HPI):
+Li Mei, a 49-year-old female, presented with a 3-day history of intermittent dizziness and a sensation of rapid heartbeat.
+
+Symptoms are worse when standing.
+History of hypertension and diabetes for 5 years.
+Recommended Sections:
+History of Procedures:
+None reported.
+Immunizations:
+Current Immunizations:
+
+Influenza vaccine (November 2023).
+Pneumococcal vaccine (August 2022).
+Medical Devices:
+Glucometer for home glucose monitoring.
+Results:
+Pending Results:
+
+Electrocardiogram (ECG) to confirm arrhythmia.
+Blood tests for thyroid function and electrolyte imbalance.
+Finance Information:
+Insurance Provider: China Life Insurance
+Policy Number: CL123456789
+Plan Type: Comprehensive Coverage
+Deductible: ¥1,500 (remaining: ¥800)
+Co-pay for ER visit: ¥75
+Objective:
+Vital Signs:
+
+Blood Pressure: 140/90 mmHg
+Heart Rate: 110 bpm (irregular)
+Respiratory Rate: 20 breaths/min
+Temperature: 37°C
+Physical Exam:
+
+General: Appears anxious.
+Cardiovascular: Irregular heart rhythm, no murmurs.
+Neurological: Normal examination.
+Assessment and Plan:
+Diagnosis:
+
+Atrial fibrillation with rapid ventricular response.
+Plan:
+
+Start rate control with beta-blocker (e.g., Metoprolol).
+Initiate anticoagulation with Rivaroxaban.
+Admit for monitoring and further cardiac evaluation.
+Consult cardiology for potential electrical cardioversion.
+Encounter Information:
+Encounter Date: November 15, 2024
+Location: Shanghai Central Hospital, Emergency Department
+Practitioner: Dr. Wang Hui
