@@ -1,4 +1,0 @@
-id,name,birthDate,gender,address,emergency_contact,organization,,doc_name
-23456789,Emily Carter,2/12/1980,female,"123 Main St, Example City, CA, 12345","John Carter, 555-1234",General Hospital,,patient1.txt
-34567890,Michael Johnson,4/8/1975,male,"456 Oak St, Example City, NY, 67890","Sarah Johnson, 555-6789",General Hospital,,patient2.txt
-45678901,Laura Williams,9/15/1990,female,"789 Pine St, Example City, TX, 54321","Alex Williams, 555-4321",General Hospital,,patient3.txt
