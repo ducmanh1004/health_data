@@ -1,0 +1,71 @@
+Patient Information:
+
+Name: Oliver Bennett
+Date of Birth: May 15, 1992
+Gender: Male
+Medical Record Number: 34567890
+Admission Date: November 15, 2024
+Chief Complaint: Severe headache and dizziness
+Document Information:
+
+Patient: Oliver Bennett (required subject)
+Author: Dr. Sarah Williams (required)
+Attester: Dr. Sarah Williams (optional)
+Custodian: Medical Records Department (optional)
+Required Sections:
+Allergies and Intolerances:
+
+Penicillin – Severe rash and swelling.
+Medication Summary:
+
+Current Medications:
+Ibuprofen 400 mg as needed for pain.
+Amlodipine 5 mg daily for hypertension.
+Problems:
+
+Primary Diagnosis: Suspected migraine with aura.
+Secondary Problems:
+Hypertension, controlled on Amlodipine.
+History of Present Illness (HPI):
+Oliver Bennett is a 32-year-old male with a 3-day history of severe, pulsating headache.
+
+Associated with nausea, sensitivity to light, and dizziness.
+Denies fever, weakness, or visual changes beyond aura.
+Reports similar but less severe episodes in the past 6 months.
+Recommended Sections:
+History of Procedures:
+
+Tonsillectomy (June 2002).
+Immunizations:
+
+Up to date, including influenza vaccine (administered October 2023).
+Medical Devices:
+
+No medical devices currently in use.
+Results:
+
+Pending Tests:
+MRI of the brain to rule out structural abnormalities.
+Electrolyte panel to assess for dehydration or imbalances.
+Finance Information:
+
+Insurance Provider: AXA Health
+Policy Number: AX123456789
+Plan Type: Comprehensive Coverage
+Deductible: £500 (remaining: £200)
+Co-pay for Specialist Visit: £25
+Objective:
+Vital Signs:
+
+Blood Pressure: 140/88 mmHg
+Heart Rate: 84 bpm
+Temperature: 36.8°C
+Physical Exam:
+
+Neurological: Normal reflexes, no motor deficits, cranial nerves intact.
+Cardiovascular: Regular rhythm, no murmurs.
+Assessment and Plan:
+
+Administer intravenous fluids.
+Start migraine-specific treatment (Sumatriptan).
+Consult neurology for further evaluation.

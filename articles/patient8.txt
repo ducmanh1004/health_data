@@ -1,0 +1,75 @@
+Patient Information:
+
+Name: Jack Wilson
+Date of Birth: July 10, 1987
+Gender: Male
+Medical Record Number: 78912345
+Admission Date: November 16, 2024
+Chief Complaint: Sudden onset chest pain
+Document Information:
+
+Patient: Jack Wilson (required subject)
+Author: Dr. Emily Hughes (required)
+Attester: Dr. Emily Hughes (optional)
+Custodian: Medical Records Department (optional)
+Required Sections:
+Allergies and Intolerances:
+
+No known drug allergies (NKDA).
+Medication Summary:
+
+Current Medications:
+Atorvastatin 20 mg nightly for hyperlipidemia.
+Aspirin 100 mg daily for cardiac prevention.
+Problems:
+
+Primary Diagnosis: Suspected acute coronary syndrome (ACS).
+Secondary Problems:
+Hyperlipidemia.
+Family history of heart disease.
+History of Present Illness (HPI):
+Jack Wilson is a 37-year-old male presenting with sudden, sharp chest pain radiating to the left arm.
+
+Pain onset 2 hours prior, worsened with exertion, and improved slightly with rest.
+Associated with sweating, shortness of breath, and nausea.
+Denies fever, cough, or recent illness.
+Recommended Sections:
+History of Procedures:
+
+No prior surgical history.
+Immunizations:
+
+Up to date, including influenza vaccine (administered May 2024).
+Medical Devices:
+
+No medical devices currently in use.
+Results:
+
+Pending Tests:
+Electrocardiogram (ECG) to evaluate for ischemic changes.
+Cardiac biomarkers (Troponin) to confirm myocardial infarction.
+Finance Information:
+
+Insurance Provider: Medibank Private
+Policy Number: MB456123789
+Plan Type: Hospital and Extras Cover
+Deductible: AUD 750 (remaining: AUD 350)
+Co-pay for ER visit: AUD 50
+Objective:
+Vital Signs:
+
+Blood Pressure: 135/88 mmHg
+Heart Rate: 98 bpm
+Respiratory Rate: 20 breaths/min
+Temperature: 37.0°C
+Physical Exam:
+
+Cardiovascular: Tachycardia, no murmurs or gallops.
+Respiratory: Clear to auscultation bilaterally.
+Abdomen: Non-tender, no masses.
+Assessment and Plan:
+
+Administer oxygen therapy to maintain SpO₂ > 94%.
+Initiate antiplatelet therapy (Aspirin + Clopidogrel).
+Start intravenous nitroglycerin for chest pain.
+Consult cardiology for further management.

@@ -1,0 +1,91 @@
+Patient Information:
+
+Name: Darren Lee
+Date of Birth: July 7, 1985
+Gender: Male
+Medical Record Number: 23458760
+Admission Date: November 19, 2024
+Chief Complaint: Severe leg pain following a fall
+Document Information:
+
+Patient: Darren Lee (required subject)
+Author: Dr. Jonathan Tan (required)
+Attester: Dr. Jonathan Tan (optional)
+Custodian: Medical Records Department (optional)
+Required Sections:
+Allergies and Intolerances:
+
+No known drug allergies (NKDA).
+Medication Summary:
+
+Current Medications:
+Paracetamol 500 mg as needed for mild pain.
+Problems:
+
+Primary Diagnosis: Fractured femur (left leg) due to fall.
+Secondary Problems:
+Hypertension, managed with lifestyle changes and medication (Amlodipine 5 mg daily).
+History of Present Illness (HPI):
+
+Darren Lee is a 39-year-old male who fell while playing soccer 2 hours ago.
+Reports severe pain in his left thigh, which is swollen and bruised.
+Unable to bear weight on the left leg, but no obvious open wounds or cuts.
+Denies chest pain, shortness of breath, or loss of consciousness.
+Recommended Sections:
+History of Procedures:
+
+None reported.
+Immunizations:
+
+Up to date, including influenza vaccine (administered November 2023).
+Medical Devices:
+
+No medical devices currently in use.
+Results:
+
+Pending results from:
+X-ray of left femur to confirm fracture.
+Finance Information:
+
+Insurance Provider: Great Eastern Life
+Policy Number: GE123456789
+Plan Type: Integrated Shield Plan
+Deductible: $1,200 (remaining: $400)
+Co-pay for ER visit: $70
+Estimated Cost of Procedure (Surgical repair of femur): $8,000
+Patient Responsibility (Post-insurance): Estimated $2,000 after deductible and co-insurance (25%).
+Payment Plan: No existing payment plans.
+Objective:
+Vital Signs:
+
+Blood Pressure (on admission): 130/85 mmHg
+Heart Rate: 90 bpm
+Respiratory Rate: 18 breaths/min
+Temperature: 37.0°C
+Oxygen Saturation: 98% on room air
+Physical Exam:
+
+General: Alert, in moderate pain, unable to bear weight on left leg.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Respiratory: Clear to auscultation bilaterally.
+Extremities: Left leg swollen and tender, limited range of motion.
+Assessment and Plan:
+Diagnosis:
+
+Primary Diagnosis: Fractured left femur.
+Secondary Conditions: Hypertension, well-controlled with medication.
+Plan:
+
+Order X-ray of the left leg to confirm the fracture.
+Start pain management with IV analgesics (Morphine).
+Consult orthopedic surgery for possible reduction and fixation.
+Follow-Up:
+
+Surgery consult to discuss possible surgical intervention.
+Monitor pain levels and vital signs.
+Follow-up post-surgery in 2 weeks to check for complications.
+Encounter Information:
+
+Encounter Date: November 19, 2024
+Location: Tan Tock Seng Hospital, Emergency Department
+Practitioner: Dr. Jonathan Tan (Attending Physician)

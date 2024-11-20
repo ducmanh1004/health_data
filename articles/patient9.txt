@@ -1,0 +1,76 @@
+Patient 2:
+Patient Information:
+
+Name: Sophie Turner
+Date of Birth: March 3, 1975
+Gender: Female
+Medical Record Number: 89123456
+Admission Date: November 17, 2024
+Chief Complaint: Persistent fatigue and joint pain
+Document Information:
+
+Patient: Sophie Turner (required subject)
+Author: Dr. Benjamin Carter (required)
+Attester: Dr. Benjamin Carter (optional)
+Custodian: Medical Records Department (optional)
+Required Sections:
+Allergies and Intolerances:
+
+Allergic to Ibuprofen – causes severe gastric upset.
+Medication Summary:
+
+Current Medications:
+Paracetamol 1 g as needed for pain.
+Methotrexate 15 mg weekly for rheumatoid arthritis.
+Vitamin D 1000 IU daily.
+Problems:
+
+Primary Diagnosis: Flare-up of rheumatoid arthritis.
+Secondary Problems:
+Vitamin D deficiency.
+History of Present Illness (HPI):
+Sophie Turner is a 49-year-old female with known rheumatoid arthritis presenting with worsening joint pain and swelling in the hands and knees for the past month.
+
+Reports significant morning stiffness lasting over an hour.
+Fatigue has increased despite adequate rest.
+Denies fever, weight loss, or skin rash.
+Recommended Sections:
+History of Procedures:
+
+Appendectomy (June 1993).
+Right knee arthroscopy for meniscal tear (January 2020).
+Immunizations:
+
+Up to date, including COVID-19 booster (administered July 2023).
+Medical Devices:
+
+No medical devices currently in use.
+Results:
+
+Pending Tests:
+Rheumatoid factor and anti-CCP antibody levels.
+X-rays of the hands and knees to assess for joint damage.
+Finance Information:
+
+Insurance Provider: Bupa Australia
+Policy Number: BP123987654
+Plan Type: Comprehensive Plan
+Deductible: AUD 500 (remaining: AUD 200)
+Co-pay for Specialist Visit: AUD 30
+Objective:
+Vital Signs:
+
+Blood Pressure: 122/76 mmHg
+Heart Rate: 74 bpm
+Respiratory Rate: 16 breaths/min
+Temperature: 36.7°C
+Physical Exam:
+
+Musculoskeletal: Swelling and tenderness in the metacarpophalangeal and knee joints bilaterally. Reduced range of motion.
+Neurological: Normal strength and reflexes.
+Assessment and Plan:
+
+Increase Methotrexate dosage to 20 mg weekly.
+Add a short course of oral corticosteroids to reduce inflammation.
+Recommend physiotherapy to maintain joint function.
+Follow up with rheumatology in 2 weeks.

@@ -1,0 +1,73 @@
+Patient Information:
+
+Name: Amelia Thompson
+Date of Birth: March 8, 1965
+Gender: Female
+Medical Record Number: 45678901
+Admission Date: November 16, 2024
+Chief Complaint: Persistent shortness of breath
+Document Information:
+
+Patient: Amelia Thompson (required subject)
+Author: Dr. Michael Harris (required)
+Attester: Dr. Michael Harris (optional)
+Custodian: Medical Records Department (optional)
+Required Sections:
+Allergies and Intolerances:
+
+No known drug allergies (NKDA).
+Medication Summary:
+
+Current Medications:
+Salbutamol Inhaler, as needed for asthma.
+Atorvastatin 20 mg nightly for hyperlipidemia.
+Aspirin 75 mg daily for cardiac protection.
+Problems:
+
+Primary Diagnosis: Exacerbation of asthma.
+Secondary Problems:
+Hyperlipidemia.
+History of ischemic heart disease.
+History of Present Illness (HPI):
+Amelia Thompson is a 59-year-old female with worsening shortness of breath over the last 2 weeks.
+
+Associated with wheezing and a dry cough.
+Denies fever, chest pain, or significant sputum production.
+Recommended Sections:
+History of Procedures:
+
+Coronary Artery Bypass Grafting (CABG) in 2019.
+Hysterectomy in 2005.
+Immunizations:
+
+Up to date, including pneumonia vaccine (administered October 2022).
+Medical Devices:
+
+No medical devices currently in use.
+Results:
+
+Pending Tests:
+Pulmonary function tests (PFTs).
+Chest X-ray to rule out infection or fluid overload.
+Finance Information:
+
+Insurance Provider: Bupa UK
+Policy Number: BU456789123
+Plan Type: Premium Plan
+Deductible: £750 (remaining: £100)
+Co-pay for ER visit: £50
+Objective:
+Vital Signs:
+
+Blood Pressure: 130/85 mmHg
+Heart Rate: 92 bpm
+Temperature: 37.1°C
+Physical Exam:
+
+Respiratory: Wheezes noted bilaterally, no crackles.
+Cardiovascular: Normal rhythm, no new murmurs.
+Assessment and Plan:
+
+Administer nebulized bronchodilators (Salbutamol + Ipratropium).
+Prescribe oral corticosteroids for inflammation.
+Recommend follow-up with pulmonology in 1 week.

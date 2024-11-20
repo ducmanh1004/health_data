@@ -1,0 +1,94 @@
+Patient Information:
+
+Name: Rina Tan
+Date of Birth: March 22, 1994
+Gender: Female
+Medical Record Number: 89264751
+Admission Date: November 19, 2024
+Chief Complaint: Chest tightness and shortness of breath
+Document Information:
+
+Patient: Rina Tan (required subject)
+Author: Dr. Elizabeth Wong (required)
+Attester: Dr. Elizabeth Wong (optional)
+Custodian: Medical Records Department (optional)
+Required Sections:
+Allergies and Intolerances:
+
+No known drug allergies (NKDA).
+Medication Summary:
+
+Current Medications:
+Aspirin 100 mg daily for heart health.
+Propranolol 20 mg daily for anxiety.
+Problems:
+
+Primary Diagnosis: Acute asthma exacerbation.
+Secondary Problems:
+Generalized anxiety disorder, well-managed on current medications.
+History of seasonal allergic rhinitis.
+History of Present Illness (HPI):
+
+Rina Tan is a 30-year-old female with a 3-day history of increasing chest tightness, shortness of breath, and wheezing.
+Symptoms were initially mild but have progressively worsened, with difficulty completing daily activities.
+Reports a history of asthma, though she has not needed an inhaler in several months.
+Denies recent respiratory infections, but reports exposure to allergens (dust and pollen).
+Recommended Sections:
+History of Procedures:
+
+None reported.
+Immunizations:
+
+Up to date, including influenza vaccine (administered September 2024).
+Medical Devices:
+
+No medical devices currently in use.
+Results:
+
+Pending results from:
+Chest X-ray to rule out other causes of shortness of breath.
+Pulmonary function test (PFT) to assess asthma severity.
+Finance Information:
+
+Insurance Provider: AIA Singapore
+Policy Number: SG987654321
+Plan Type: Integrated Shield Plan (IP)
+Deductible: $1,000 (remaining: $400)
+Co-pay for ER visit: $50
+Estimated Cost of Procedure (Bronchodilator therapy): $500
+Patient Responsibility (Post-insurance): Estimated $150 after deductible and co-insurance (20%).
+Payment Plan: No existing payment plans.
+Objective:
+Vital Signs:
+
+Blood Pressure (on admission): 115/75 mmHg
+Heart Rate: 88 bpm
+Respiratory Rate: 22 breaths/min
+Temperature: 36.9°C
+Oxygen Saturation: 96% on room air
+Physical Exam:
+
+General: Alert, slightly anxious, appears in mild respiratory distress.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Respiratory: Bilateral wheezing heard on auscultation, prolonged expiratory phase.
+Extremities: No edema.
+Assessment and Plan:
+Diagnosis:
+
+Primary Diagnosis: Acute asthma exacerbation.
+Secondary Conditions: Generalized anxiety disorder.
+Plan:
+
+Administer nebulized bronchodilator therapy (Salbutamol) every 4 hours.
+Start oral corticosteroids (Prednisolone) for asthma flare.
+Monitor oxygen saturation and respiratory rate closely.
+Follow-up with pulmonary specialist for asthma management.
+Follow-Up:
+
+Follow-up appointment with pulmonologist in 1 week.
+Return to the hospital if symptoms worsen or do not improve with treatment.
+Encounter Information:
+
+Encounter Date: November 19, 2024
+Location: Singapore General Hospital, Emergency Department
+Practitioner: Dr. Elizabeth Wong (Attending Physician)
